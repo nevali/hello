@@ -1,0 +1,13 @@
+/hello-cpp
+*.exe
+*.o
+*.s
+*.i
+*.ii
+*.bc
+*.obj
+*.lib
+*.log
+*.out
+*.run
+*.pid
